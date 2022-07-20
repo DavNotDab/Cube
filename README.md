@@ -19,6 +19,6 @@ This is the file you wanna execute for the program to work, it will open the 3D 
 finally cube_controller is a file containing a controller class between the interface and the rest of the code.
 
 
-This is one of my first projects using python, after ~7 months using it, so some errors and inefficiencies are expected, any advice is welcomed in the comments!
+This is one of my first formal projects using python, after ~7 months using it, so some errors and inefficiencies are expected, any advice is welcomed in the comments!
 
 Thank you for reading this.
