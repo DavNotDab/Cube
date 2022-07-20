@@ -14,6 +14,7 @@ cube_resolution.py is the file which contain every function related with the res
 db_access.py is a small file with only two functions to access the database of the cube.
 
 cube_interface.py contains the 2D interface of the cube, with some buttons to interact with it. Said interface is made using PySimpleGUI
+This is the file you wanna execute for the program to work, it will open the 3D interface in your browser (localhost) and the 2D interface in a different window, from where you can interact with the cube, rotating each face, scrambling or solving it.
 
 finally cube_controller is a file containing a controller class between the interface and the rest of the code.
 
