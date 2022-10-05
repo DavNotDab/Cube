@@ -1,5 +1,5 @@
 # Cube
-A Rubik's Cube which can solve itself!
+A Rubik's Cube that can solve itself!
 
 The project is all made in Python 3.9.7
 
